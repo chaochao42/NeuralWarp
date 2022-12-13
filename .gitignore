@@ -1,0 +1,8 @@
+.idea
+*/__pycache__/*
+*.zip
+*.ply
+exps/
+evals/
+pytorch3d/
+data/
